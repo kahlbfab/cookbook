@@ -1,15 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Recipe</title>
-    <link rel="stylesheet" href="styles.css">
+<title>Recipe</title>
+<link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container">
         <h1 id="recipe-name"></h1>
-        <p id="serving-size"></p>
+        <label for="serving-size-input">Adjust Serving Size:</label>
+        <input type="number" id="serving-size-input" min="1" value="4">
         <h2>Ingredients</h2>
         <ul id="ingredients-list"></ul>
         <h2>Instructions</h2>
