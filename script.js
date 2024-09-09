@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const urlParams = new URLSearchParams(window.location.search);
-    const recipeFile = urlParams.get('recipe');
+    const recipeFile = urlParams.get('recipe') || 'carbonara.json'; // Default to carbonara.json if no recipe is specified
 
     let originalRecipe = null;
 
@@ -41,19 +41,18 @@ document.addEventListener('DOMContentLoaded', () => {
             li.textContent = instruction;
             instructionsList.appendChild(li);
         });
+
+        // Set the serving size input to the recipe's serving size
+        document.getElementById('serving-size-input').value = recipe.serving_size;
     }
 
-    if (recipeFile) {
-        fetch(`recipes/${recipeFile}`)
-            .then(response => response.json())
-            .then(recipe => {
-                originalRecipe = recipe;
-                updateRecipeDisplay(recipe);
-            })
-            .catch(error => console.error('Error fetching the recipe:', error));
-    } else {
-        console.error('No recipe specified');
-    }
+    fetch(`recipes/${recipeFile}`)
+        .then(response => response.json())
+        .then(recipe => {
+            originalRecipe = recipe;
+            updateRecipeDisplay(recipe);
+        })
+        .catch(error => console.error('Error fetching the recipe:', error));
 
     document.getElementById('serving-size-input').addEventListener('input', () => {
         const desiredServingSize = parseInt(document.getElementById('serving-size-input').value, 10);
