@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    color: #333;
+}
+
+#serving-size {
+    font-style: italic;
+    color: #666;
+}
+
+ul, ol {
+    margin: 0;
+    padding: 0 0 0 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
