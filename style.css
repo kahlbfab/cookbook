@@ -1,6 +1,7 @@
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f8f8f8;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+    color: #343a40;
     margin: 0;
     padding: 0;
 }
@@ -9,24 +10,36 @@ body {
     max-width: 800px;
     margin: 50px auto;
     padding: 20px;
-    background-color: #fff;
+    background-color: #ffffff;
+    border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 h1, h2 {
-    color: #333;
+    text-align: center;
 }
 
-#serving-size {
-    font-style: italic;
-    color: #666;
+.form-group {
+    margin-bottom: 20px;
 }
 
-ul, ol {
-    margin: 0;
-    padding: 0 0 0 20px;
+input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
 }
 
-li {
-    margin-bottom: 10px;
+.list-group {
+    list-style: none;
+    padding: 0;
+}
+
+.list-group li {
+    padding: 10px;
+    border-bottom: 1px solid #ced4da;
+}
+
+.list-group li:last-child {
+    border-bottom: none;
 }

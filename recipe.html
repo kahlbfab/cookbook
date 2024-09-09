@@ -1,15 +1,29 @@
-<title>Recipe</title>
-<link rel="stylesheet" href="styles.css">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <div class="container">
-        <h1 id="recipe-name"></h1>
-        <label for="serving-size-input">Serving Size:</label>
-        <input type="number" id="serving-size-input" min="1" value="4">
+    <div class="container mt-5">
+        <h1 id="recipe-name" class="text-center"></h1>
+        <div class="form-group row justify-content-center">
+            <label for="serving-size-input" class="col-form-label col-auto">Serving Size:</label>
+            <div class="col-auto">
+                <input type="number" id="serving-size-input" class="form-control" min="1">
+            </div>
+        </div>
         <h2>Ingredients</h2>
-        <ul id="ingredients-list"></ul>
+        <ul id="ingredients-list" class="list-group mb-3"></ul>
         <h2>Instructions</h2>
-        <ol id="instructions-list"></ol>
+        <ol id="instructions-list" class="list-group"></ol>
+        <div class="text-center mt-4">
+            <a href="index.html" class="btn btn-primary">Back to Home</a>
+        </div>
     </div>
     <script src="script.js"></script>
 </body>
