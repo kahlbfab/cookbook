@@ -1,0 +1,28 @@
+{
+  "name": "Orientalische Bowl",
+  "serving_size": 4,
+  "ingredients": {
+      "Couscous": [
+          "150g Couscous",
+          "3 dl Wasser, siedend",
+          "wenig Butter",
+          "wenig Olivenöl"
+      ],
+      "Jogurtsauce": [
+        "400g griechischer Jogurt nature",
+        "1 Bio-Zitrone, abgeriebene Schale und Saft",
+        "½ Gurke, gerieben",
+        "wenig Olivenöl",
+        "wenig orientalische Gewürzmischung"
+        ],
+      "Anrichten": [
+          "200g Falafel",
+          "150g Hummus",
+          "1 Granatapfel, Kerne ausgelöst",
+          "4 Feigen / getrocknete Feigen"
+      ]
+  },
+  "instructions": [
+      "no instructions"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Chocorange-Cake",
+  "description": "Mandeln und ein sanftes Kaffeearoma machen diesen saftigen Schokolade-Cake unwiderstehlich. Gerne lässt er sich mit den beliebten kandierten Orangenschnitzen verzieren.",
+  "preparation_time": "ca. 30 Min.",
+  "baking_time": "ca. 50 Min.",
+  "diet": "vegetarisch",
+  "serving_size": 8,
+  "ingredients": {
+    "Main Ingredients": [
+      "120 g Butter, weich",
+      "140 g Zucker",
+      "4 Eigelbe",
+      "120 g dunkle Schokolade",
+      "1 Bio-Orange",
+      "1 TL sofort lösliches Kaffeepulver",
+      "4 Eiweisse",
+      "1 Prise Salz",
+      "2 EL Zucker",
+      "200 g gemahlene geschälte Mandeln"
+    ]
+  },
+  "instructions": [
+    "Ofen auf 180 Grad vorheizen.",
+    "Butter in eine Schüssel geben, Zucker und Eigelbe darunterrühren, weiterrühren, bis die Masse heller ist. Die Schokolade fein dazureiben, von der Orange Schale dazureiben und Saft dazupressen. Kaffeepulver beigeben, gut mischen.",
+    "Eiweisse mit dem Salz steif schlagen, Zucker beigeben, kurz weiterschlagen, bis der Eischnee glänzt.",
+    "Zwieback im Cutter fein mahlen oder in einem Plastikbeutel mit dem Wallholz fein zerstossen, mit den Mandeln mischen. Lagenweise mit dem Eischnee auf die Masse geben, mit dem Gummischaber sorgfältig darunterziehen, in die vorbereitete Form füllen.",
+    "Backen: ca. 50 Min. in der unteren Hälfte des Ofens. Herausnehmen, etwas abkühlen, Cake aus der Form nehmen, auf einem Gitter auskühlen."
+  ],
+  "nutrition_per_serving": {
+    "kcal": 246,
+    "fat": "15g",
+    "carbohydrates": "21g",
+    "protein": "5g"
+  },
+  "additional_info": {
+    "form": "Für eine Cakeform von ca. 30 cm, mit Backpapier ausgelegt",
+    "storage": "In Folie eingepackt im Kühlschrank ca. 4 Tage."
+  }
+}

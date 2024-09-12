@@ -15,7 +15,14 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         }
 
-        const adjustedIngredients = recipe.ingredients.map(adjustQuantity);
+        const adjustedIngredients = {};
+        if (typeof recipe.ingredients === 'object' && !Array.isArray(recipe.ingredients)) {
+            for (const section in recipe.ingredients) {
+                adjustedIngredients[section] = recipe.ingredients[section].map(adjustQuantity);
+            }
+        } else {
+            adjustedIngredients.default = recipe.ingredients.map(adjustQuantity);
+        }
         return {
             ...recipe,
             ingredients: adjustedIngredients,
@@ -26,13 +33,36 @@ document.addEventListener('DOMContentLoaded', () => {
     function updateRecipeDisplay(recipe) {
         document.getElementById('recipe-name').textContent = recipe.name;
 
+        if (recipe.image) {
+            const imageContainer = document.getElementById('recipe-image');
+            imageContainer.innerHTML = `<img src="${recipe.image}" alt="${recipe.name}" class="img-fluid rounded">`;
+        }
+
         const ingredientsList = document.getElementById('ingredients-list');
         ingredientsList.innerHTML = '';
-        recipe.ingredients.forEach(ingredient => {
-            const li = document.createElement('li');
-            li.textContent = ingredient;
-            ingredientsList.appendChild(li);
-        });
+        if (typeof recipe.ingredients === 'object' && !Array.isArray(recipe.ingredients)) {
+            for (const section in recipe.ingredients) {
+                const sectionTitle = document.createElement('h4'); // Use h4 for smaller subtitle
+                sectionTitle.textContent = section;
+                ingredientsList.appendChild(sectionTitle);
+
+                const ul = document.createElement('ul');
+                recipe.ingredients[section].forEach(ingredient => {
+                    const li = document.createElement('li');
+                    li.textContent = ingredient;
+                    ul.appendChild(li);
+                });
+                ingredientsList.appendChild(ul);
+            }
+        } else {
+            const ul = document.createElement('ul');
+            recipe.ingredients.forEach(ingredient => {
+                const li = document.createElement('li');
+                li.textContent = ingredient;
+                ul.appendChild(li);
+            });
+            ingredientsList.appendChild(ul);
+        }
 
         const instructionsList = document.getElementById('instructions-list');
         instructionsList.innerHTML = '';

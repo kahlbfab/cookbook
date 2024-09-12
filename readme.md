@@ -10,4 +10,9 @@ node generate-recipes-json.js
 
 
 # todo's
-- bootstrap: gestaltung und auch handy format
+- adjust layout for mobile
+- add images to recipes
+- add recipes
+  - kaiserschmaren
+  - fish fajitas
+  - orangen schoko cake
