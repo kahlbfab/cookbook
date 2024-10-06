@@ -17,6 +17,8 @@ body {
 
 h1, h2 {
     text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .form-group {
@@ -42,4 +44,33 @@ input[type="number"] {
 
 .list-group li:last-child {
     border-bottom: none;
+}
+
+#recipe-source {
+    margin-top: 20px;
+    font-size: 0.9em;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .container {
+        margin: 20px auto;
+        padding: 15px;
+    }
+
+    h1, h2 {
+        font-size: 1.5em;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+    input[type="number"] {
+        padding: 8px;
+    }
+
+    .list-group li {
+        padding: 8px;
+    }
 }
