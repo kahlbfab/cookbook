@@ -1,8 +1,11 @@
 {
   "recipes": [
+    "Bao_Buns.json",
     "Orientalische_Bowl.json",
+    "Reis-Thon-Salat.json",
     "gallo_pinto.json",
-    "napoli.json",
-    "schoko_orangen_cake.json"
+    "maroccan_spiced_meatballs.json",
+    "schoko_orangen_cake.json",
+    "sommer_rollen.json"
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "name": "Reis Thon Salat",
+  "serving_size": 4,
+  "source": "fooby",
+  "ingredients": {
+    "Reis": [
+      "100 g Basmatireis"
+    ],
+    "Salat": [
+      "1 EL grobkörniger Senf",
+      "3 EL Mayonnaise",
+      "1 EL Honig",
+      "3 EL Weissweinessig",
+      "3 EL Rapsöl",
+      "1 Dose Thon",
+      "Essiggurken",
+      "Käse: Gruyere",
+      "150g Cherrytomaten",
+      "1/2 Bund Petersilie",
+      "3 EL Cashew-nüsse"
+    ]
+  },
+  "additional_info": {
+    "prep_time": "30 minutes",
+    "cook_time": "10 minutes"
+  }
+}

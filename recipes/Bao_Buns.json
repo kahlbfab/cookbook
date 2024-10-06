@@ -1,0 +1,42 @@
+{
+  "name": "Bao Buns",
+  "source": "https://migusto.migros.ch/de/rezepte/bao-buns-mit-pikantem-seitan",
+  "preparation_time": "ca. 30 Min.",
+  "baking_time": "ca. 50 Min.",
+  "diet": "vegetarisch",
+  "serving_size": 4,
+  "ingredients": {
+    "Buns": [
+      "350 g Mehl",
+      "1 Beutel Trockenhefe à 7 g",
+      "½ TL Salz",
+      "10 g Zucker",
+      "2 dl lauwarmes Wasser",
+      "0,5 dl Kokosmilch",
+      "Mehl zum Auswallen",
+      "Öl zum Bepinseln und Braten"
+    ],
+    "Filling": [
+      "1 rote Zwiebel",
+      "1 Peperoncino",
+      "2 Gläser Seitan à 200 g",
+      "1 EL Asia-5-Gewürz-Mischung",
+      "5 EL Sweet 'n' Sour Sauce",
+      "1 Bund Koriander"
+    ]
+  },
+  "instructions": [
+    "Für die Buns Mehl, Hefe, Salz und Zucker mischen. Wasser und Kokosmilch dazugeben. Alles zu einem weichen Teig verkneten. Zugedeckt ca. 1 Stunde ruhen lassen. Teig in Stücke à ca. 70 g teilen und zu Kugeln formen, etwas flach drücken. Auf etwas Mehl leicht oval zu Teiglingen à ca. 12 cm auswallen. Jeden Teigling zur Hälfte mit etwas Öl bepinseln, zusammenfalten und auf Backpapierstücke legen. 30 Minuten ruhen lassen. Buns mit etwas Abstand in einem Bambuskörbchen oder Steamer/Dampfgarer ca. 15 Minuten dämpfen.",
+    "Inzwischen Zwiebel hacken. Peperoncino fein schneiden. Seitan in ein Sieb abgiessen, abspülen und abtropfen lassen. In etwas Öl mit Zwiebeln, Peperoncino und Gewürzmischung bei mittlerer Hitze 3–5 Minuten braten. Mit süss-saurer Sauce mischen. Buns mit Seitan und Koriander füllen."
+  ],
+  "nutrition_per_serving": {
+    "kcal": 246,
+    "fat": "15g",
+    "carbohydrates": "21g",
+    "protein": "5g"
+  },
+  "additional_info": {
+    "form": "Für eine Cakeform von ca. 30 cm, mit Backpapier ausgelegt",
+    "storage": "In Folie eingepackt im Kühlschrank ca. 4 Tage."
+  }
+}

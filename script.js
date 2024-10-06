@@ -74,6 +74,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Set the serving size input to the recipe's serving size
         document.getElementById('serving-size-input').value = recipe.serving_size;
+
+        // Update the source
+        if (recipe.source) {
+            document.getElementById('recipe-source').textContent = `Source: ${recipe.source}`;
+        } else {
+            document.getElementById('recipe-source').textContent = "Source not provided.";
+        }
     }
 
     fetch(`recipes/${recipeFile}`)

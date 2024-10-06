@@ -1,6 +1,7 @@
 {
   "name": "Orientalische Bowl",
   "serving_size": 4,
+  "source": "fooby",
   "ingredients": {
       "Couscous": [
           "150g Couscous",
