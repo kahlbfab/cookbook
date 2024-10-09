@@ -1,0 +1,28 @@
+{
+  "name": "Apfelstrudel",
+  "source": "nach Rezept Hanna Schiffner",
+  "serving_size": 6,
+  "ingredients": {
+    "Teig":
+    [
+      "1 Blätterteig (Coop) ideal eckig"
+    ],
+    "Füllung":
+    [
+      "2 Äpfel",
+      "2EL Haselnüsse",
+      "2EL Zucker",
+      "2EL Rosinen"
+    ]
+  },
+  "instructions": [
+    "Äpfel raffeln mittelgross wenn es geht eher säuerlich",
+    "Zuerst ein Tischtuch dann 2x Packpapier auf Tisch auflegen mit etwas Mehl besteuben. Teig so dünn wie möglich auswalgen. Mit etwas warmer Butter bestreichen",
+    "Apfelschnitzel mit Zimt und wenig Zucker und Rosinen beifügen Das ganze in der Schüssel durchmengen mit der Hand",
+    "Wenig Haselnüsse auf den Teig verteilen",
+    "Füllung auf dem Teig verteilen, Rand frei lassen ca. 3-4 cm.",
+    "Vorne, links und rechts den Teig ca. 5 em einklappen. Mit Packpapier einrollen. Am Ende den Restteig ca. 6-7cm ohne Füllung darüberklappen",
+    "Mit einer Gabel bestechen nur oben ca. 8 bis 10 mal. Mit der restlichen Butter bestreichen",
+    "Den Apfelstrudel aufs Blech geben bei ca. 180 bis 200°C ungeflähr 40 Minuten backen, sollte leicht braun werden. Danach rausnehmen und erkalten lassen dann enst von Backpapier nehmen"
+  ]
+}
