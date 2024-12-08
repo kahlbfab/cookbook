@@ -1,0 +1,24 @@
+{
+  "name": "Gefüllte Tomaten",
+  "serving_size": 4,
+  "ingredients": {
+    "Main": [
+      "150g Reis",
+      "400ml Gemüsebouillon",
+      "8 grosse Tomaten",
+      "1rote Zwiebel",
+      "2 Knoblauchzehen",
+      "2 EL Frischkäse",
+      "100g Feta",
+      "Peterli"
+    ]
+  },
+  "instructions": [
+    "Reis und Bouillon kochen",
+    "Tomaten, Deckel abschneiden und aushöhlen",
+    "Zwiebel und Knoblauch dünsten",
+    "Peterli, Tomatenfleisch dazugeben Würzen und Frischkäse unterrühren",
+    "Tomaten füllen",
+    "Tomaten Backen 180 Grad Ober und Unterhitze"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Pad Thai",
+  "serving_size": 4,
+  "source": "fooby",
+  "ingredients": {
+      "Main": [
+        "Erdnüsse",
+        "Poulet",
+        "Protein: Crewetten, Poulet, Tofu",
+        "Karotten",
+        "Erbsen",
+        "Koriander",
+        "250g Reisnudeln",
+        "Sojasauce"
+      ],
+      "Sauce": [
+        "250ml Wasser",
+        "1 EL Tamarindenpaste",
+        "5 EL Sojasauce",
+        "120g Palmsucker",
+        "1 TL Salz"
+      ]
+  },
+  "instructions": [
+      "Für die Sauce alle Zutaten unter rühren aufkochen, nacher ca 25min köcheln auf tiefer Stufe",
+      "Reisnudeln kochen",
+      "Crewetten anbraten, Nudel beigeben",
+      "Pad-Thai-Sauce beigeben",
+      "Rest beigeben"
+  ]
+}

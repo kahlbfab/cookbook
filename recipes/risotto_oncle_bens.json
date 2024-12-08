@@ -1,9 +1,5 @@
 {
   "name": "Oncle Ben's Risotto",
-  "source": "https://example.com/oncle-bens-risotto",
-  "preparation_time": "ca. 20 Min.",
-  "cooking_time": "ca. 30 Min.",
-  "diet": "vegetarisch",
   "serving_size": 4,
   "ingredients": {
     "Risotto": [
@@ -11,33 +7,27 @@
       "1EL Olivenöl",
       "1 Zwiebel, fein gehackt",
       "2 Knoblauchzehen, fein gehackt",
-      "1l Gemüsebrühe, heiß",
+      "Bouillon, heiß",
       "100ml Weißwein",
       "50g Parmesan, gerieben",
       "50g Butter",
-      "Salz und Pfeffer nach Geschmack",
-      "1 Bund Petersilie, gehackt",
       "wenig Rahm"
     ],
     "Optional Toppings": [
+      "Petersilie",
       "100g Champignons, in Scheiben geschnitten",
       "100g Erbsen, gefroren",
       "100g Spargel, in Stücke geschnitten"
     ]
   },
   "instructions": [
-    "Olivenöl in einem großen Topf erhitzen. Zwiebel und Knoblauch hinzufügen und bei mittlerer Hitze glasig dünsten.",
+    "Öl in Pfanne",
+    "Zwiebel und Knoblauch dünsten",
     "Oncle Ben's Risotto Reis hinzufügen und unter Rühren etwa 2 Minuten anbraten, bis der Reis leicht glasig ist.",
     "Weißwein hinzufügen und unter Rühren kochen, bis der Wein fast vollständig verdampft ist.",
-    "Eine Kelle heiße Gemüsebrühe hinzufügen und unter ständigem Rühren kochen, bis die Brühe fast vollständig aufgenommen ist. Diesen Vorgang wiederholen, bis der Reis cremig und al dente ist (ca. 18-20 Minuten).",
-    "Parmesan und Butter und wenig Rahm unterrühren, bis sie geschmolzen und gut vermischt sind. Mit Salz und Pfeffer abschmecken.",
+    "Buillion nach und nach hinzufügen",
+    "mit Parmesan und Butter verfeinern",
     "Optional: Champignons, Erbsen oder Spargel hinzufügen und weitere 5 Minuten kochen, bis das Gemüse gar ist.",
     "Petersilie unterrühren und sofort servieren."
-  ],
-  "nutrition_per_serving": {
-    "kcal": 350,
-    "fat": "15g",
-    "carbohydrates": "45g",
-    "protein": "10g"
-  }
+  ]
 }

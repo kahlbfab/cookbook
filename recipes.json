@@ -2,12 +2,20 @@
   "recipes": [
     "Apfelstrudel.json",
     "Bao_Buns.json",
+    "Gefüllte-Tomaten.json",
+    "Lachs-Spaghetti.json",
+    "Mailänderli.json",
+    "Orangen-Creme.json",
     "Orientalische_Bowl.json",
+    "Pad-Thai.json",
+    "Rahm-Schnitzel.json",
     "Reis-Thon-Salat.json",
     "gallo_pinto.json",
     "maroccan_spiced_meatballs.json",
     "risotto_oncle_bens.json",
     "schoko_orangen_cake.json",
-    "sommer_rollen.json"
+    "sommer_rollen.json",
+    "sweet-patato-curry copy.json",
+    "Älpler-One-Pot.json"
   ]
 }

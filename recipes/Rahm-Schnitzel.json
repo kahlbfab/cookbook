@@ -1,0 +1,16 @@
+{
+  "name": "Rahm Schnitzel (Hinterburg)",
+  "serving_size": 4,
+  "ingredients": {
+    "Schnitzel und Sauce": [
+      "Schnitzel",
+      "Kafferahm",
+      "Paprika",
+      "Teigwaren"
+    ]
+  },
+  "instructions": [
+     "Schnitzel anbraten",
+     "in gleicher Pfanne, Sauce mit Kafferahm und viel Paprika kochen"
+  ]
+}

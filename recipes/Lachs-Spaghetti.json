@@ -1,0 +1,21 @@
+{
+  "name": "Lachs Spaghetti",
+  "serving_size": 4,
+  "ingredients": {
+    "Lachs Spaghetti": [
+      "500g Spaghetti",
+      "Räucherlachs",
+      "Zwiebel",
+      "Rahm",
+      "Tomatenmark",
+      "Peterli",
+      "Parmesan"
+    ]
+  },
+  "instructions": [
+    "Wasser kochen, Spaghetti kochen",
+    "Zwiebel dünsten",
+    "Tomatenmark und Rahm dazu",
+    "Räucherlachs dazu"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Mailänderli",
+  "ingredients": {
+    "Schaumig Rühren": [
+      "250g Butter",
+      "250g Zucker",
+      "2 Päckli Vanillezucker",
+      "3 Eigelb",
+      "3 Beutel Zitronenschale",
+      "wenig Zitronensaft"
+    ],
+    "Einarbeiten": [
+      "500g Mehl",
+      "1 Pack Backpulver",
+      "Eigelb zum besteichen"
+    ]
+  },
+  "instructions": [
+   "Schaumig rühren",
+   "Einarbeiten",
+   "1h kühl stellen",
+   "Auswallen, ausstechen",
+   "10min bei 180°C Umluft backen"
+  ]
+}
