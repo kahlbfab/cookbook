@@ -1,0 +1,32 @@
+{
+  "name": "Pad Krapao",
+  "serving_size": 4,
+  "source": "https://fooby.ch/de/rezepte/18895/",
+  "ingredients": {
+      "Fleisch": [
+        "400g Hackfleisch / Soja flocken",
+        "1 Zwiebel",
+        "3 Knoblauchzehen",
+        "3 rote Chillis in Stücken"
+      ],
+      "Sauce": [
+        "3 EL Sojasauce",
+        "2 EL Austernsauce",
+        "1 EL Wasser",
+        "1 TL Zucker",
+        "200g Bohnen",
+        "100g Cherry Tomaten",
+        "3 Kaffirlimetten-Blätter zerzupft",
+        "Bouillion",
+        "1/2 Bund Thai-Basilikum"
+      ],
+      "Reis": [
+        "200g Reis"
+      ]
+  },
+  "instructions": [
+      "Reis kochen",
+      "Fleisch anbraten, herausnehmen und beiseite stellen",
+      "Soja-, Austernsauce, Wasser und Zucker verrühren, in die Pfanne geben, aufkochen. Fleisch wieder beigeben, erhitzen. Hitze reduzieren, Bohnen und alle Zutaten bis und mit Thaibasilikum beigeben, zugedeckt ca. 10 Min. köcheln"
+  ]
+}
