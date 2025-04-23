@@ -5,6 +5,7 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
 }
 
 .container {
@@ -121,23 +122,51 @@ h4 {
 /* Responsive Design */
 @media (max-width: 768px) {
     .container {
-        margin: 15px;
-        padding: 15px;
+        margin: 0 10px; /* Ensure proper spacing without overflow */
+        padding: 10px;
+        max-width: 100%; /* Ensure container doesn't exceed screen width */
     }
 
     h1 {
-        font-size: 2.2rem;
+        font-size: 2rem; /* Reduce font size for smaller screens */
+        word-wrap: break-word; /* Prevent text overflow */
     }
 
     h2 {
-        font-size: 1.8rem;
+        font-size: 1.5rem; /* Adjust section title size */
     }
 
     .list-group-item {
-        padding: 12px 15px;
+        padding: 10px; /* Reduce padding for list items */
+        font-size: 0.9rem; /* Adjust font size for better readability */
+        word-wrap: break-word; /* Prevent text overflow */
     }
 
     .btn-primary {
-        padding: 0.6rem 1.5rem;
+        padding: 0.5rem 1rem; /* Adjust button padding */
+        font-size: 0.9rem; /* Reduce button font size */
+    }
+
+    .recipe-header {
+        margin-bottom: 20px; /* Adjust spacing for better layout */
+    }
+
+    #recipe-name {
+        font-size: 1.8rem; /* Reduce recipe name font size */
+        word-wrap: break-word; /* Prevent text overflow */
+    }
+
+    #ingredients-list, #instructions-list {
+        padding-left: 15px; /* Add padding for better alignment */
+    }
+
+    .header-bar img {
+        height: auto; /* Ensure the header image scales properly */
+        max-height: 150px; /* Limit the height for smaller screens */
+        width: 100%; /* Ensure the image spans the full width */
+    }
+
+    .recipes-container {
+        padding: 0; /* Remove extra padding to fit the screen */
     }
 }
