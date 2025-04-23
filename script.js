@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Update the source
         if (recipe.source) {
-            document.getElementById('recipe-source').textContent = `Source: ${recipe.source}`;
+            document.getElementById('recipe-source').innerHTML = `Source: <a href="${recipe.source}" target="_blank">${recipe.source}</a>`;
         } else {
             document.getElementById('recipe-source').textContent = "Source not provided.";
         }

@@ -1,0 +1,32 @@
+{
+  "name": "kaiserschmarrn",
+  "category": "dessert",
+  "serving_size": 4,
+  "source": "https://emmikochteinfach.de/kaiserschmarrn-ganz-klassisch/",
+  "ingredients": {
+    "Main": [
+      "4 Eier",
+      "300ml Vollmilch",
+      "125g Mehl",
+      "75ml Mineralwasser",
+      "60g Zucker",
+      "40g Butter",
+      "1 Prise Salz",
+      "1 Päckchen Vanillezucker",
+      "Puderzucker zum Bestäuben"
+    ],
+    "Optional": [
+      "40g Rosinen",
+      "2EL Obstsaft zum Einlegen"
+    ]
+  },
+  "instructions": [
+    "Eier trennen und Eiweiße steif schlagen.",
+    "Eigelbe mit Zucker, Vanillezucker und Salz schaumig schlagen.",
+    "Mehl, Milch und Mineralwasser unterrühren.",
+    "Eischnee dazugeben",
+    "Butter in einer Pfanne erhitzen und den Teig hineingeben. 5 Minuten backen.",
+    "Wenden und weitere 5 Minuten backen.",
+    "In Stücke reissen"
+  ]
+}

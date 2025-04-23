@@ -1,0 +1,31 @@
+{
+  "name": "Pangasius Wraps",
+  "category": "main",
+  "serving_size": 4,
+  "source": "https://fooby.ch/de/rezepte/27279/",
+  "ingredients": {
+    "Pangasius": [
+      "600g Pangasiusfilets, längs halbiert, in 5 cm langen Streifen",
+      "½ TL Salz",
+      "2 EL Weissmehl",
+      "2 Eier",
+      "100g Panko",
+      "1 Limette",
+      "4 EL Öl zum Braten"
+    ],
+    "Wrap": [
+      "80g Peperoni in feinen Streifen",
+      "125g Bio-Frischkäse nature",
+      "½ EL Honig",
+      "¼ TL Salz",
+      "4 Weizen-Tortillas",
+      "40g Jungsalat mit Kräutern",
+      "½ Gurke, in ca. 10 cm langen Streifen"
+    ]
+  },
+  "instructions": [
+   "Pangasius: Fisch salzen, im Mehl wenden, überschüssiges Mehl abschütteln. Eier in einem tiefen Teller verklopfen, Fisch darin wenden. Limette heiss abspülen, Schale abreiben, 2 EL Saft auspressen und diesen beiseite stellen. Panko und Limettenschale auf einem flachen Teller mischen, Fisch portionenweise darin wenden, Panade gut andrücken. Öl in einer beschichteten Pfanne heiss werden lassen. Fisch portionenweise beidseitig je ca. 1 1/2 Min. braten, mit beiseite gestelltem Limettensaft beträufeln.",
+   "Wrap: Peperoni, Frischkäse und Honig mischen, salzen. Tortillas nach Angabe auf der Verpackung zubereiten. Tortillas mit der Peppadew Masse bestreichen, Salat, Gurke und Fisch darauf verteilen, einschlagen, aufrollen."
+  ]
+}
+

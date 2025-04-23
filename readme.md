@@ -1,4 +1,4 @@
-website: https://kahlbfab.github.io/cookbook/
+[website](https://kahlbfab.github.io/cookbook/)
 
 # update
 - add new recipes to recipes/new_recipe.json
@@ -7,12 +7,3 @@ website: https://kahlbfab.github.io/cookbook/
 node generate-recipes-json.js
 ```
 - push changes to github
-
-
-# todo's
-- adjust layout for mobile
-- add images to recipes
-- add recipes
-  - kaiserschmaren
-  - fish fajitas
-  - orangen schoko cake

@@ -1,0 +1,44 @@
+{
+  "name": "Döner Bowl",
+  "category": "main",
+  "serving_size": 4,
+  "source": "https://fooby.ch/de/rezepte/27279/",
+  "ingredients": {
+    "Tofu": [
+      "6 EL Sojasauce",
+      "2 EL Olivenöl",
+      "2 TL Paprika",
+      "1 TL Knoblauchpulver",
+      "½ TL Kreuzkümmelpulver",
+      "400 g geräucherter Tofu, mit dem Sparschäler in dünne Späne gehobelt"
+    ],
+    "Salat": [
+      "300 g Rotkabis, fein gehobelt",
+      "1 Zwiebel, fein gehackt",
+      "2 Tomaten, in Würfeli",
+      "¼ TL Knoblauchpulver",
+      "2 Prisen Salz",
+      "wenig Pfeffer"
+    ],
+    "Kartoffeln": [
+      "500 g festkochende Kartoffeln, in Schnitzchen",
+      "2 EL Olivenöl",
+      "½ TL Knoblauchpulver",
+      "½ TL Salz"
+    ],
+    "Jogurt-Sauce": [
+      "400 g veganer Jogurt-Ersatz nature (Soja)",
+      "1 Knoblauchzehe, gepresst",
+      "½ TL Salz",
+      "200 g Gurken, in Stücken"
+    ]
+  },
+  "instructions": [
+    "Tofu: Sojasauce und alle Zutaten bis und mit Kreuzkümmel in eine Schüssel geben, gut verrühren, Tofu beigeben, mischen, beiseitestellen.",
+    "Salat: Alle Zutaten in einer Schüssel mischen, beiseitestellen.",
+    "Kartoffeln: Kartoffeln und alle Zutaten bis und mit Salz mischen, auf einem mit Backpapier belegten Blech verteilen.",
+    "Backen: Kartoffeln ca. 10 Min. in der unteren Hälfte des auf 200°C (Heissluft) vorgeheizten Ofens backen. Tofu abtropfen, auf einem mit Backpapier belegten Blech verteilen, in die obere Hälfte des Ofens schieben.",
+    "Fertig backen: Kartoffeln und Tofu ca. 15 Min. fertig backen. Herausnehmen.",
+    "Jogurt-Sauce: Jogurt-Ersatz, Knoblauch und Salz verrühren. Gurke mit dem Salat, den Kartoffeln und dem Tofu anrichten, Sauce dazu servieren."
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Zitronenschnecken",
+  "category": "dessert",
+  "serving_size": 6,
+  "source": "https://www.bettybossi.ch/de/rezepte/rezept/zitronenschnecken-10009705/",
+  "ingredients": {
+    "Teig": [
+      "250g Mehl",
+      "1 TL Salz",
+      "1 TL Zucker",
+      "1 Bio-Zitrone",
+      "0.25 Würfel Hefe (ca.10g)",
+      "35g Butter",
+      "1.5dl Milch"
+    ],
+    "Füllung": [
+      "125g Butter, weich",
+      "2 Bio-Zitronen",
+      "125g Zucker",
+      "50g Mehl"
+    ],
+    "Topping": [
+      "1 EL Puderzucker",
+      "100g Crème fraîche",
+      "1 TL Puderzucker"
+    ]
+  },
+  "instructions": [
+    "Teig: Mehl, Salz und Zucker in einer Schüssel mischen. Von der Zitrone die Schale dazureiben. Hefe zerbröckeln, daruntermischen. Butter in Stücke schneiden, mit der Milch beigeben, mischen, zu einem weichen, glatten Teig kneten. Teig zugedeckt bei Raumtemperatur ca.1½ Std. aufs Doppelte aufgehen lassen.",
+    "Füllung: Butter in einer Schüssel verrühren, von den Zitronen die Schale dazureiben, 1½ EL Saft auspressen, davon 1 TL Saft beigeben. Restlichen Saft beiseite stellen. Zucker und Mehl unter die Butter rühren.",
+    "Teig zu einem Rechteck von ca. 30x40cm auswallen. Füllung darauf verteilen, dabei ringsum einen Rand von ca. 1cm frei lassen. Teig von der Längsseite her aufrollen, mit einem Brotmesser ohne Druck in 9 gleich grosse Stücke schneiden. Schnecken mit wenig Abstand in die vorbereitete Form setzen. Nochmals ca. 15 Min. aufgehen lassen. Ofen auf 180 Grad vorheizen.",
+    "Backen: ca. 30 Min. in der unteren Hälfte des Ofens. Herausnehmen, etwas abkühlen, Formenrand entfernen. 1 EL des beiseite gestellten Zitronensafts mit Puderzucker verrühren, Schnecken noch warm damit bestreichen. Crème fraîche mit Puderzucker verrühren, auf den Zitronenschnecken verteilen, auf einem Gitter auskühlen."
+   
+  ]
+}

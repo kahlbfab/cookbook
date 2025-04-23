@@ -33,6 +33,11 @@ document.addEventListener('DOMContentLoaded', () => {
                         }
                     });
 
+                    // Sort recipes alphabetically within each category
+                    Object.keys(recipeGroups).forEach(category => {
+                        recipeGroups[category].sort((a, b) => a.name.localeCompare(b.name));
+                    });
+
                     // Clear the recipe list
                     recipeList.innerHTML = '';
 

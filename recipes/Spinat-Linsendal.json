@@ -1,0 +1,20 @@
+{
+  "name": "Spinat-Linsendal",
+  "category": "main",
+  "serving_size": 4,
+  "source": "https://fooby.ch/de/rezepte/17381/linsen-spinat-dal",
+  "ingredients": {
+    "Main": [
+      "1 EL Olivenöl",
+      "240g rote Linsen",
+      "4 EL rote Currypaste",
+      "5dl Kokosmilch",
+      "5dl Wasser",
+      "400g Blattspinat"
+    ]
+  },
+  "instructions": [
+    "Öl in einer Pfanne erwärmen. Linsen und Currypaste beigeben, ca. 3 Min. andämpfen. Kokosmilch und Wasser dazugiessen, salzen, unter gelegentlichem Rühren ca. 15 Min. köcheln.",
+    "Spinat beigeben, ca. 5 Min. fertig köcheln."
+  ]
+}
