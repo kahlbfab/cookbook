@@ -9,7 +9,8 @@ document.addEventListener('DOMContentLoaded', () => {
             const recipeGroups = {
                 starters: [],
                 main: [],
-                dessert: []
+                dessert: [],
+                apero: [] // Add the new "apero" category
             };
 
             // Create promises array for all recipe fetches
