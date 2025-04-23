@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
         .then(data => {
             const recipes = data.recipes;
             const recipeList = document.getElementById('recipe-list');
-            
+
             // Create container for grouped recipes
             const recipeGroups = {
                 starters: [],
