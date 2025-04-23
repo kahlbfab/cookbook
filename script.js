@@ -66,11 +66,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const instructionsList = document.getElementById('instructions-list');
         instructionsList.innerHTML = '';
+        const ol = document.createElement('ol');
         recipe.instructions.forEach(instruction => {
             const li = document.createElement('li');
             li.textContent = instruction;
-            instructionsList.appendChild(li);
+            ol.appendChild(li);
         });
+        instructionsList.appendChild(ol);
 
         // Set the serving size input to the recipe's serving size
         document.getElementById('serving-size-input').value = recipe.serving_size;

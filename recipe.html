@@ -4,26 +4,33 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Recipe</title>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container mt-5">
-        <h1 id="recipe-name" class="text-center"></h1>
-        <div class="form-group row justify-content-center">
-            <label for="serving-size-input" class="col-form-label col-auto">Serving Size:</label>
-            <div class="col-auto">
-                <input type="number" id="serving-size-input" class="form-control" min="1">
+        <div class="recipe-header mb-4">
+            <h1 id="recipe-name" class="text-center mb-4"></h1>
+            <div class="form-group row justify-content-center align-items-center">
+                <label for="serving-size-input" class="col-form-label col-auto mr-2">Serving Size:</label>
+                <div class="col-auto">
+                    <input type="number" id="serving-size-input" class="form-control" min="1">
+                </div>
             </div>
         </div>
-        <h2>Ingredients</h2>
-        <ul id="ingredients-list" class="list-group mb-3"></ul>
-        <h2>Instructions</h2>
-        <ol id="instructions-list" class="list-group mb-3 px-5 px-md-0"></ol>
         
-        <p id="recipe-source" class="text-muted"></p>
-        <div class="text-center mt-4">
+        <div class="recipe-content">
+            <h2 class="section-title">Ingredients</h2>
+            <ul id="ingredients-list" class="list-group mb-4"></ul>
+            
+            <h2 class="section-title">Instructions</h2>
+            <ol id="instructions-list" class="list-group mb-4"></ol>
+            
+            <p id="recipe-source" class="text-muted mb-4"></p>
+        </div>
+
+        <div class="text-center mt-5">
             <a href="index.html" class="btn btn-primary">Back to Home</a>
         </div>
     </div>
