@@ -1,76 +1,35 @@
-body {
-    font-family: 'Roboto', sans-serif;
-    background-color: #f8f9fa;
-    color: #343a40;
-    margin: 0;
-    padding: 0;
-}
-
-.container {
-    max-width: 800px;
-    margin: 50px auto;
-    padding: 20px;
-    background-color: #ffffff;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-h1, h2 {
-    text-align: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-
-.form-group {
-    margin-bottom: 20px;
-}
-
-input[type="number"] {
-    width: 100%;
-    padding: 10px;
-    border: 1px solid #ced4da;
-    border-radius: 4px;
-}
+/* ... existing styles ... */
 
 .list-group {
     list-style: none;
     padding: 0;
+    margin: 0;
 }
 
-.list-group li {
-    padding: 10px;
+.list-group-item {
+    padding: 10px 15px;
     border-bottom: 1px solid #ced4da;
 }
 
-.list-group li:last-child {
+.list-group-item:last-child {
     border-bottom: none;
 }
 
-#recipe-source {
-    margin-top: 20px;
-    font-size: 0.9em;
+h2 {
+    color: #343a40;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
 }
 
 /* Responsive Design */
 @media (max-width: 768px) {
-    .container {
-        margin: 20px auto;
-        padding: 15px;
+    h2 {
+        font-size: 1.3rem;
+        padding-left: 15px;
     }
-
-    h1, h2 {
-        font-size: 1.5em;
-    }
-
-    .form-group {
-        margin-bottom: 15px;
-    }
-
-    input[type="number"] {
-        padding: 8px;
-    }
-
-    .list-group li {
-        padding: 8px;
+    
+    .list-group-item {
+        padding: 8px 15px;
     }
 }
